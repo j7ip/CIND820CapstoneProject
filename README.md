@@ -1,7 +1,7 @@
 # CIND820CapstoneProject - Predicting the Popularity of Online News
 
 
-**Dataset:**
+**1. Dataset:**
 The dataset for the project is Online News Popularity Dataset from the UCI Machine Learning Repository. 
 
 link: https://archive.ics.uci.edu/dataset/332/online+news+popularity
@@ -13,7 +13,7 @@ Please find description of the data file:
 https://github.com/j7ip/CIND820CapstoneProject/blob/main/OnlineNewsPopularity%20Data%20description.names
 
 
-**Description of the project**
+**2. Description of the project**
 The theme of this capstone project is forecasting the popularity of online news prior to publication based on a broad set of extracted features.
 
 3 questions that are focused on:
@@ -22,16 +22,16 @@ The theme of this capstone project is forecasting the popularity of online news 
 3. selecting the set of features to optimize the performance of the model
 
 
-**Program language used in the project**
+**3. Program language used in the project**
 Python
 
-**Approach:**
+**4. Approach:**
 Classficiation approach - Logistic Regression, Random Forest, SVM
 
-**Final Report file**
+**5. Final Report file**
 https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c46e60fb0e48e1/CIND%20820%20Capstone%20Project%20-%20Jaime%20Ip%20%2007172023%20FINAL.pdf
 
-**Final ipynb Complete file**
+**6. Final ipynb Complete file**
 https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c46e60fb0e48e1/Predicting%20online%20news%20popularity%20June%202023%20v2.ipynb
 
 Subfiles if the ipynb file:
