@@ -34,7 +34,7 @@ https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c4
 **6. Final ipynb Complete file**
 https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c46e60fb0e48e1/Predicting%20online%20news%20popularity%20June%202023%20v2.ipynb
 
-Subfiles if the ipynb file:
+Subfiles of the ipynb file:
 Part 1 - Data Collection and Panda Profiling Report 
 https://github.com/j7ip/CIND820CapstoneProject/blob/main/CAPSTONE%20PROJECT_0%20-Data%20Collection%20and%20Panda%20Profile%20Report.ipynb
 
