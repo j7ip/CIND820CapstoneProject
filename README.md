@@ -25,4 +25,4 @@ Classficiation approach - Logistic Regression, Random Forest, SVM
 https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c46e60fb0e48e1/CIND%20820%20Capstone%20Project%20-%20Jaime%20Ip%20%2007172023%20FINAL.pdf
 
 **Final ipynb file**
-(https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb)https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb
+https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb)https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb
