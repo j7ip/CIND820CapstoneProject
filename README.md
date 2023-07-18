@@ -1,5 +1,6 @@
 # CIND820CapstoneProject - Predicting the Popularity of Online News
 
+**CONTENT**
 
 **1. Dataset:**
 The dataset for the project is Online News Popularity Dataset from the UCI Machine Learning Repository. 
