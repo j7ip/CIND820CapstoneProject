@@ -19,4 +19,7 @@ The theme of this capstone project is forecasting the popularity of online news 
 Python
 
 **Approach:**
-Classficiation approach - Logistic Regression, Random Forest, KNN
+Classficiation approach - Logistic Regression, Random Forest, SVM
+
+**Final version of report **
+CIND 820 Capstone Project - Jaime Ip  07172023 FINAL.pdf
