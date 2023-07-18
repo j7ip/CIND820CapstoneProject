@@ -6,6 +6,13 @@ The dataset for the project is Online News Popularity Dataset from the UCI Machi
 
 link: https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
+It is also saved in here:
+https://github.com/j7ip/CIND820CapstoneProject/blob/main/OnlineNewsPopularity.csv
+
+Please find description of the data file:
+https://github.com/j7ip/CIND820CapstoneProject/blob/main/OnlineNewsPopularity%20Data%20description.names
+
+
 **Description of the project**
 The theme of this capstone project is forecasting the popularity of online news prior to publication based on a broad set of extracted features.
 
@@ -26,3 +33,4 @@ https://github.com/j7ip/CIND820CapstoneProject/blob/6b9919697a0170503133d02f59c4
 
 **Final ipynb file**
 https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb
+
