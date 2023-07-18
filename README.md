@@ -22,4 +22,4 @@ Python
 Classficiation approach - Logistic Regression, Random Forest, SVM
 
 **Final version of report **
-CIND 820 Capstone Project - Jaime Ip  07172023 FINAL.pdf
+https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20Jaime%20Ip%20%2007172023%20FINAL.pdf
