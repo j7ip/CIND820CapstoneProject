@@ -31,8 +31,9 @@ Classficiation approach - Logistic Regression, Random Forest, SVM
 
 **6. [Final Report file](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20Jaime%20Ip%20%2007172023%20FINAL.pdf)**
 
-**6. Final ipynb Complete file**
-https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb
+**7. Jupyter Notebook File ipynb**
+
+[Complete File](https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb)
 
 Subfiles of the ipynb file:
 Part 1 - Data Collection and Panda Profiling Report 
