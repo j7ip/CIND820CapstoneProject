@@ -7,8 +7,8 @@ The dataset for the project is Online News Popularity Dataset from the UCI Machi
 
 link: https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
-Dataset file and description also saved in folder Data:
-[https://github.com/j7ip/CIND820CapstoneProject/blob/main/OnlineNewsPopularity.csv](https://github.com/j7ip/CIND820CapstoneProject/tree/main/Data)
+Dataset file and description also saved in folder [Data](https://github.com/j7ip/CIND820CapstoneProject/tree/main/Data)
+
 
 
 
