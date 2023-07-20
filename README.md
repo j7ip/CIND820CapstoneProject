@@ -41,6 +41,4 @@ Part 1 - [Data Collection and Panda Profiling Report](https://github.com/j7ip/CI
 
 Part 2 - [EDA - Research question 1 ](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CAPSTONE%20PROJECT_1%20-Data%20Exploration%20(Researach%20Question%201).ipynb)
 
-
-Part 3 - Modelling and Optimization - Research question 2 & 3 
-https://github.com/j7ip/CIND820CapstoneProject/blob/main/CAPSTONE%20PROJECT_2%20-%20Model%20evaluation%20and%20Optimization%20(Research%20Question%202%263).ipynb
+Part 3 - [Modelling and Optimization - Research question 2 & 3 ](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CAPSTONE%20PROJECT_2%20-%20Model%20evaluation%20and%20Optimization%20(Research%20Question%202%263).ipynb)
