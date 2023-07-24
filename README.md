@@ -29,11 +29,11 @@ Classficiation approach - Logistic Regression, Random Forest, SVM
 
 **5. [Panda Profiling Report](https://github.com/j7ip/CIND820CapstoneProject/tree/main/Panda%20Profiling%20Report):**
 
-**6. [Final Report file](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20Jaime%20Ip%20%2007172023%20FINAL.pdf)**
+[**6. Final Report file**](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20FINAL.pdf)
 
 **7. Jupyter Notebook File ipynb**
 
-[Complete File](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20FINAL.pdf)
+Complete File
 
 The above file is also broken down into smaller files:
 
