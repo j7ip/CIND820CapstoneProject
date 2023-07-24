@@ -33,7 +33,7 @@ Classficiation approach - Logistic Regression, Random Forest, SVM
 
 **7. Jupyter Notebook File ipynb**
 
-[Complete File](https://github.com/j7ip/CIND820CapstoneProject/blob/main/Predicting%20online%20news%20popularity%20July%202023.ipynb)
+[Complete File](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20-%20FINAL.pdf)
 
 The above file is also broken down into smaller files:
 
