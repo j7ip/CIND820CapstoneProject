@@ -43,4 +43,4 @@ Part 2 - [EDA - Research question 1 ](https://github.com/j7ip/CIND820CapstonePro
 
 Part 3 - [Modelling and Optimization - Research question 2 & 3 ](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CAPSTONE%20PROJECT_2%20-%20Model%20evaluation%20and%20Optimization%20(Research%20Question%202%263).ipynb)
 
-[**8. PowerPoint**](https://github.com/j7ip/CIND820CapstoneProject/blob/main/Project%20Presesntation%20July%2024%202023.pptx)
+[**8. PowerPoint**](https://github.com/j7ip/CIND820CapstoneProject/blob/main/CIND%20820%20Capstone%20Project%20PowerPoint.pdf)
